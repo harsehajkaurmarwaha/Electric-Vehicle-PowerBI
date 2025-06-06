@@ -3,7 +3,7 @@ This project entails the development of an interactive Power BI dashboard aimed 
 
 Data Source: https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data   (updated data as per 2024)
 
-Learning Outcomes:Data connection with Excel,Data Cleaning,Data Modeling,Data Processing, DAX Calculations, Dashboard Layout,Charts Deevlopment, Chart Formatting, Report devlopment, Insighjt generation.
+Learning Outcomes:Data connection with Excel,Data Cleaning,Data Modeling,Data Processing, DAX Calculations, Dashboard Layout,Charts Deevlopment, Chart Formatting, Report devlopment, Insight generation.
 
 KPI'S/ Parameters:
 1Total Vehicles:Understand the overall landscape of electric vehicles, encompassing both BEVs and PHEVs, to assess the market's size and growth.
