@@ -1,6 +1,6 @@
 # Electric-Vehicle-PowerBI
 This project entails the development of an interactive Power BI dashboard aimed at analyzing the electric vehicle (EV) market. The dashboard offers insights into EV adoption trends, performance metrics, and market dynamics, assisting stakeholders in making informed decisions.
-
+Data Source: https://www.kaggle.com/datasets/utkarshx27/electric-vehicle-population-data   (updated data as per 2024)
 Learning Outcomes:Data connection with Excel,Data Cleaning,Data Modeling,Data Processing, DAX Calculations, Dashboard Layout,Charts Deevlopment, Chart Formatting, Report devlopment, Insighjt generation.
 
 KPI'S/ Parameters:
